@@ -1,0 +1,5 @@
+pkg update
+Pkg upgrade
+pkg install python2
+CD
+ifconfig
